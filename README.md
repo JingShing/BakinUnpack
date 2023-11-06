@@ -33,4 +33,5 @@ In the bakin I assume it use ```.rbpack``` to packed game file.
 I found out that bakin will create temp file during games at the windows temp path:
 * ```C:\Users\{username}\AppData\Local\Temp\bakin_engine_tmp```
 
-There are many 
+There are many ```.rbr``` file. Still have no clue how to deal with it.
+![temp_files](image/temp_files.png)
