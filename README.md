@@ -1,3 +1,4 @@
+English | [繁體中文](README_TCH.md)
 # BakinUnpack
 A repo for researching how to unpack game made of rpg develop bakin.
 
