@@ -27,6 +27,7 @@ SGB using a special file format called ```.sgbpack```. And it has a certain patt
 
 In the bakin I assume it use ```.rbpack``` to packed game file.
 * I found that header is ```42 4b 4e 50 41 4b (BKNPAK)```.
+![rbpack_hex](image/rbpack_hex.png)
 
 # temp file
 I found out that bakin will create temp file during games at the windows temp path:
