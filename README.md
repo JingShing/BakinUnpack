@@ -1,6 +1,11 @@
 English | [繁體中文](README_TCH.md)
 # I found a awesome bakin extractor
 After several months. I found a awesome extractor by a clever engineer: [Bakin Extractor](https://github.com/HNIdesu/BakinExtractor/tree/main)
+
+* How to use：
+```bash
+python unpack.py rbpack_path output_directory
+```
 # BakinUnpack
 A repo for researching how to unpack game made of rpg develop bakin.
 
