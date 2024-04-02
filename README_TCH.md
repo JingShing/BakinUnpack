@@ -1,4 +1,11 @@
 [English](README.md) | 繁體中文
+# 我找到一個很厲害的 Bakin 拆解工具
+在幾個月後，我找到了一個聰穎的工程師的作品: [Bakin 拆解工具](https://github.com/HNIdesu/BakinExtractor/tree/main)
+
+* 如何使用：
+```bash
+python unpack.py rbpack檔案路徑 輸出資料夾路徑
+```
 # BakinUnpack
 一篇研究如何拆包 rpg develop bakin 的 repo。
 
